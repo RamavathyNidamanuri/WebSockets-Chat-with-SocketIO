@@ -1,0 +1,19 @@
+{
+  "name": "socket-chat-example",
+  "version": "1.0.0",
+  "description": "my first socket.io app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamavathyNidamanuri/WebSockets-Chat-with-SocketIO.git"
+  },
+  "author": "Ramavathy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RamavathyNidamanuri/WebSockets-Chat-with-SocketIO/issues"
+  },
+  "homepage": "https://github.com/RamavathyNidamanuri/WebSockets-Chat-with-SocketIO#readme"
+}
