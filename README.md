@@ -1,2 +1,2 @@
 # WebSockets-Chat-with-SocketIO
-WebSockets Chat with SocketI
+WebSockets Chat with SocketIO
